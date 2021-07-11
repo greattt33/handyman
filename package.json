@@ -1,0 +1,21 @@
+{
+  "name": "handyman",
+  "version": "1.0.0",
+  "description": "handyman service",
+  "main": "handyman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cleaning",
+    "service"
+  ],
+  "author": "aadebayo\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[Dmojeed \"\"\u001b[Dadebayodayo33@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21"
+  }
+}
